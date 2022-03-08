@@ -48,7 +48,7 @@ public class DivisibleBy3 {
 	 */
 	private void initialize() {
 		
-		ImageIcon can = new ImageIcon("C:\\Users\\amabdalla\\OneDrive - Calgary Board of Education\\Desktop\\CS20_Eclipse\\Chapter10_v2\\src\\can.jpg ");
+		
 		
 		
 		
