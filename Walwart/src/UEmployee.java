@@ -4,22 +4,18 @@ public class UEmployee {
 	private String LastName;
 	private double Salary;
 
-	public UEmployee(String fn, String ln,double sal)
-	{
+	public UEmployee(String fn, String ln, double sal) {
 		FirstName = fn;
 		LastName = ln;
 		Salary = sal;
 	}
-	
-	public String LastName()
-	{
-		return LastName; 
+
+	public String LastName() {
+		return LastName;
 	}
-	
-	public String FirstName()
-	{
+
+	public String FirstName() {
 		return FirstName;
 	}
-	
 
 }
