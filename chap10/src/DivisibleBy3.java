@@ -1,3 +1,5 @@
+								Header?
+
 import java.awt.EventQueue;
 
 import javax.swing.*;
@@ -23,8 +25,8 @@ public class DivisibleBy3 {
 	/**
 	 * Launch the application.
 	 */
-	public static void main(String[] args) {
-		EventQueue.invokeLater(new Runnable() {
+	public static void main(String[] args) {					//Coding standard
+		EventQueue.invokeLater(new Runnable() {					//Coding standard
 			public void run() {
 				try {
 					DivisibleBy3 window = new DivisibleBy3();
@@ -39,7 +41,7 @@ public class DivisibleBy3 {
 	/**
 	 * Create the application.
 	 */
-	public DivisibleBy3() {
+	public DivisibleBy3() {								//Coding standard
 		initialize();
 	}
 
