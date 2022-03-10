@@ -1,3 +1,5 @@
+					Header?
+					
 import java.awt.EventQueue;
 
 import javax.swing.*;
@@ -80,7 +82,7 @@ public class DivisibleBy3 {
 		panel.add(interger);
 		interger.setColumns(10);
 		
-		Check.addActionListener(new ActionListener() {
+		Check.addActionListener(new ActionListener() {         //Coding standard
 			public void actionPerformed(ActionEvent e) 
 			{
 				double x;
